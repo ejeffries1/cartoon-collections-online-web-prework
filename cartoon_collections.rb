@@ -18,7 +18,6 @@ end
 end
 
 def find_the_cheese(string) # code an argument here
-  # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
-  string.include?(cheese_types)
+  string.
 end

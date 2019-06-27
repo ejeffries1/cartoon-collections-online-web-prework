@@ -11,7 +11,7 @@ def summon_captain_planet(planteer_calls)
 end
 
 def long_planeteer_calls(short_words)
-  short_words.collect do |words|
+  short_words.any? do |words|
   if words.length 
   # Your code here
 end

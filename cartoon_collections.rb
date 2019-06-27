@@ -10,7 +10,9 @@ def summon_captain_planet(planteer_calls)
     return elements
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls(short_words)
+  short_words.collect do 
+  
   # Your code here
 end
 

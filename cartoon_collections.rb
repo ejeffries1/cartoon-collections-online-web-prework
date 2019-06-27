@@ -17,7 +17,7 @@ end
   # Your code here
 end
 
-def find_the_cheese(string) # code an argument here
+def find_the_cheese(cheese_types) # code an argument here
   cheese_types = ["cheddar", "gouda", "camembert"]
   cheese = string.find do |food|
     #cheese = cheese_types
